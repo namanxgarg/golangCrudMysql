@@ -1,7 +1,7 @@
 package config
 
 import (
-	"gorm.io/gorm"
+	"github.com/jinzhe/gorm"
 )
 
 var (
